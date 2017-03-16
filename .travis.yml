@@ -8,8 +8,6 @@ env:
   - TOXENV=py35
   - TOXENV=py34
   - TOXENV=py33
-  - TOXENV=py27
-  - TOXENV=py26
   - TOXENV=pypy
 
 # command to install dependencies, e.g. pip install -r requirements.txt --use-mirrors
@@ -25,8 +23,8 @@ deploy:
   distributions: sdist bdist_wheel
   user: sma-orange
   password:
-    secure: PLEASE_REPLACE_ME
+    secure: 0ranges0K!
   on:
     tags: true
     repo: sma-orange/nuqlear_w_r
-    condition: $TOXENV == py27
+    condition: $TOXENV == py35

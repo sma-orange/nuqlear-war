@@ -9,6 +9,7 @@ def main(args=None):
     click.echo("Replace this message by putting your code into "
                "nuqlear_w_r.cli.main")
     click.echo("See click documentation at http://click.pocoo.org/")
+    click.echo(args)
 
 
 if __name__ == "__main__":

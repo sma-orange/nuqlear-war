@@ -1,6 +1,6 @@
-===============================
+===========
 NuQleaR W_R
-===============================
+===========
 
 
 
@@ -9,7 +9,7 @@ NuQleaR W_R
      :alt: Updates
 
 
-Python Boilerplate contains all the boilerplate you need to create a Python package.
+Rebuilt and more industrial version of NuQ. Clear and with Web and Reporting functions.
 
 
 
@@ -19,9 +19,9 @@ Features
 * TODO
 
 Credits
----------
+-------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+This package was initially created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage

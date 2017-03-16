@@ -21,7 +21,7 @@ test_requirements = [
 setup(
     name='nuqlear_w_r',
     version='0.5.0',
-    description="Python Boilerplate contains all the boilerplate you need to create a Python package.",
+    description="NuQ two dot oh!\n\nNuQ Clear, Refactored, Web, and Reporting.\n\nNuQleaR WaR!",
     long_description=readme + '\n\n' + history,
     author="Ben Smith",
     author_email='ben.smith@orange.com',
@@ -44,9 +44,6 @@ setup(
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
         'Natural Language :: English',
-        "Programming Language :: Python :: 2",
-        'Programming Language :: Python :: 2.6',
-        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.3',
         'Programming Language :: Python :: 3.4',
