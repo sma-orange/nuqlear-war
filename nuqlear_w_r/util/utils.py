@@ -24,4 +24,3 @@ def eta_test(volume=1000, rate=250):
     # TODO: current default to HEAD FAST == 250 r/s ::: fix the table for this matrix
     seconds = volume // rate  # int division
     return datetime.timedelta(seconds=seconds)
-
