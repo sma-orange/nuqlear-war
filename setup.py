@@ -11,7 +11,7 @@ with open('HISTORY.rst') as history_file:
 
 requirements = [
     'Click>=6.0',
-    # TODO: put package requirements here
+    # TODO: put package requirements here before packaging
 ]
 
 test_requirements = [
@@ -20,7 +20,7 @@ test_requirements = [
 
 setup(
     name='nuqlear_w_r',
-    version='0.5.0',
+    version='0.5.3',
     description="NuQ two dot oh!\n\nNuQ Clear, Refactored, Web, and Reporting.\n\nNuQleaR WaR!",
     long_description=readme + '\n\n' + history,
     author="Ben Smith",
