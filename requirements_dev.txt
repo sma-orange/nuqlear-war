@@ -30,6 +30,7 @@ pycodestyle==2.0.0
 pycparser==2.17
 pyflakes==1.2.3
 Pygments==2.2.0
+PyMySQL==0.7.10
 pyparsing==2.2.0
 pytest==2.9.2
 python-dateutil==2.6.0
